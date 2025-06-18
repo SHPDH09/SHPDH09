@@ -6,18 +6,11 @@ Let’s connect if you’re into data, problem-solving, or just want to chat abo
 # 👋 Hi, I'm Raunak Kumar
 
 🎓 **BCA - AIDA Student | Data Science Enthusiast**  
-📍 LNCT University, Section C  
+📍 LNCT University
 💼 Passionate about solving real-world problems using data  
 
 ---
 
-## 🔍 About Me
-
-I'm a curious and motivated Data Science learner who loves exploring data, building machine learning models, and creating useful tools. I enjoy turning complex datasets into actionable insights and building smart solutions that matter.
-
-I believe in the power of data to transform businesses and lives. Whether it’s automating tasks or making predictions, I always aim for impact.
-
----
 
 ## 🚀 Skills
 
@@ -32,31 +25,51 @@ I believe in the power of data to transform businesses and lives. Whether it’s
 
 ## 📂 Projects
 
-### 1. 🎯 Customer Segmentation (K-Means Clustering)
-Segmented customers based on purchase behavior to enhance marketing strategies.  
-Tech: Python, Scikit-Learn, Streamlit
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-### 2. 🚆 Railway Reservation System (C++)
-Full system with activation check, dashboard, and OTP-based login system.  
-Handles scheduling, logout, and user profile management.
+<!-- Card 1 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🎯 Customer Segmentation</h3>
+  <p><strong>Tech:</strong> Python, Scikit-Learn, Streamlit</p>
+  <p>Segmented customers based on purchase behavior to enhance marketing strategies.</p>
+</div>
 
-### 3. 🤖 AI - Data Preprocessing & Prediction Tool
-Automates missing value handling, normalization, encoding, and predictions using ML models.  
-Tech: Python, Pandas, Scikit-learn
+<!-- Card 2 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🚆 Railway Reservation System</h3>
+  <p><strong>Tech:</strong> C++</p>
+  <p>Includes activation check, user dashboard, OTP login, and scheduling with profile handling.</p>
+</div>
 
-### 4. 🎟️ EventMatch - Personalized Event Discovery
-Features user login, history tracking, and PDF result export.  
-Tech: Python, HTML, CSS, SQL
+<!-- Card 3 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🤖 AI - Data Preprocessing Tool</h3>
+  <p><strong>Tech:</strong> Python, Pandas, Scikit-learn</p>
+  <p>Automates data cleaning, normalization, encoding, and model prediction with minimal effort.</p>
+</div>
 
-### 5. 🛠️ Work Tracker Dashboard
-Tracks tasks across 5 departments with status updates and admin panel.  
-Tech: HTML, CSS, JavaScript, PHP, MySQL
+<!-- Card 4 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🎟️ EventMatch</h3>
+  <p><strong>Tech:</strong> Python, HTML, CSS, SQL</p>
+  <p>Personalized event platform with login, event history tracking, and PDF report generation.</p>
+</div>
 
-### 6. 🧑‍⚕️ Medical Appointment System
-Doctor booking system using Java backend and responsive frontend.  
-Tech: Java (Swing), SQL, HTML/CSS
+<!-- Card 5 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🛠️ Work Tracker Dashboard</h3>
+  <p><strong>Tech:</strong> HTML, CSS, JavaScript, PHP, MySQL</p>
+  <p>Dashboard for 5 departments with task status views, admin controls, and employee tracking.</p>
+</div>
 
----
+<!-- Card 6 -->
+<div style="flex: 1 1 300px; min-width: 300px; max-width: 320px; padding: 20px; border-radius: 15px; background: linear-gradient(to bottom right, #f9f9f9, #e0e0e0); box-shadow: 6px 6px 15px rgba(0,0,0,0.2); transform: perspective(600px) rotateX(2deg);">
+  <h3>🧑‍⚕️ Medical Appointment System</h3>
+  <p><strong>Tech:</strong> Java (Swing), SQL, HTML/CSS</p>
+  <p>Doctor booking and record system with clean GUI and backend integration for patient details.</p>
+</div>
+
+</div>
 
 ## 🗂️ Tools & Platforms
 
@@ -76,13 +89,6 @@ Tech: Java (Swing), SQL, HTML/CSS
 
 ---
 
-## 🙌 Let's Connect!
-
-🔗 LinkedIn: [Add your link here]  
-📧 Email: [Add your email here]  
-💡 Portfolio: [Add link if available]
-
----
 
 ⭐ If you like what I do, feel free to follow me or reach out for collaboration!
 

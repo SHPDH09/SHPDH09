@@ -1,12 +1,98 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Data Science With R Language**<br><br>- 👨‍💻 All of my projects are available at [https://bio.site/rkp_data_analytics](https://bio.site/rkp_data_analytics)<br><br>- 📫 How to reach me **rkp137911@gmail.com**<br><br>
+I am a passionate and curious Data Science enthusiast with a strong interest in solving real-world problems through data. I enjoy working with numbers, finding patterns, and turning raw data into meaningful insights that help drive smart decisions.
+With hands-on experience in Python, SQL, machine learning, and data visualization tools like Matplotlib and Seaborn, I love building models and dashboards that make data easy to understand. I believe in continuous learning and enjoy exploring new tools, algorithms, and techniques in the world of data.
+I’m a good team player, a fast learner, and someone who enjoys working on challenging projects. My goal is to use data to create value, improve systems, and make a positive impact.
+Let’s connect if you’re into data, problem-solving, or just want to chat about the future of AI!
+# 👋 Hi, I'm Raunak Kumar
+
+🎓 **BCA - AIDA Student | Data Science Enthusiast**  
+📍 LNCT University, Section C  
+💼 Passionate about solving real-world problems using data  
+
+---
+
+## 🔍 About Me
+
+I'm a curious and motivated Data Science learner who loves exploring data, building machine learning models, and creating useful tools. I enjoy turning complex datasets into actionable insights and building smart solutions that matter.
+
+I believe in the power of data to transform businesses and lives. Whether it’s automating tasks or making predictions, I always aim for impact.
+
+---
+
+## 🚀 Skills
+
+- **Languages:** Python, Java, SQL, C++  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, OpenCV  
+- **Tools:** Jupyter Notebook, XAMPP, VS Code, Eclipse  
+- **Web:** HTML, CSS, JavaScript, PHP  
+- **Frameworks:** Flask, Django, Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+
+---
+
+## 📂 Projects
+
+### 1. 🎯 Customer Segmentation (K-Means Clustering)
+Segmented customers based on purchase behavior to enhance marketing strategies.  
+Tech: Python, Scikit-Learn, Streamlit
+
+### 2. 🚆 Railway Reservation System (C++)
+Full system with activation check, dashboard, and OTP-based login system.  
+Handles scheduling, logout, and user profile management.
+
+### 3. 🤖 AI - Data Preprocessing & Prediction Tool
+Automates missing value handling, normalization, encoding, and predictions using ML models.  
+Tech: Python, Pandas, Scikit-learn
+
+### 4. 🎟️ EventMatch - Personalized Event Discovery
+Features user login, history tracking, and PDF result export.  
+Tech: Python, HTML, CSS, SQL
+
+### 5. 🛠️ Work Tracker Dashboard
+Tracks tasks across 5 departments with status updates and admin panel.  
+Tech: HTML, CSS, JavaScript, PHP, MySQL
+
+### 6. 🧑‍⚕️ Medical Appointment System
+Doctor booking system using Java backend and responsive frontend.  
+Tech: Java (Swing), SQL, HTML/CSS
+
+---
+
+## 🗂️ Tools & Platforms
+
+- Git & GitHub  
+- Jupyter Notebook  
+- Eclipse  
+- Visual Studio Code  
+- XAMPP  
+- NetBeans  
+
+---
+
+## 💬 Languages
+
+- English  
+- Hindi  
+
+---
+
+## 🙌 Let's Connect!
+
+🔗 LinkedIn: [Add your link here]  
+📧 Email: [Add your email here]  
+💡 Portfolio: [Add link if available]
+
+---
+
+⭐ If you like what I do, feel free to follow me or reach out for collaboration!
+
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/raunak.kumar.697175?mibextid=zbwkwl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.facebook.com/raunak.kumar.697175?mibextid=ZbWKwL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/https://youtube.com/@sybersecurity?si=tcdzqaxytxw9oa9d) 
-![](https://bio.site/rkp_data_analytics)
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 # 📊 GitHub Stats:
